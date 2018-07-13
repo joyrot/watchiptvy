@@ -1,302 +1,119 @@
 #EXTM3U
-#EXTINF:-1,[GER] 3Sat
-http://k2442.com:8000/live/88229/88229/857.ts
-#EXTINF:-1,[GER] 3sat HD
-http://k2442.com:8000/live/88229/88229/645.ts
-#EXTINF:-1,[GER] Anixe HD
-http://k2442.com:8000/live/88229/88229/643.ts
-#EXTINF:-1,[GER] Ard HD
-http://k2442.com:8000/live/88229/88229/642.ts
-#EXTINF:-1,[GER] Das Erste HD
-http://k2442.com:8000/live/88229/88229/511.ts
-#EXTINF:-1,[GER] Discovery Channel
-http://k2442.com:8000/live/88229/88229/854.ts
-#EXTINF:-1,[GER] Disney HD
-http://k2442.com:8000/live/88229/88229/644.ts
-#EXTINF:-1,[GER] FOX
-http://k2442.com:8000/live/88229/88229/860.ts
-#EXTINF:-1,[GER] Kabel Eins HD
-http://k2442.com:8000/live/88229/88229/858.ts
-#EXTINF:-1,[GER] Kika HD
-http://k2442.com:8000/live/88229/88229/648.ts
-#EXTINF:-1,[GER] N-TV
-http://k2442.com:8000/live/88229/88229/655.ts
-#EXTINF:-1,[GER] NDR HD
-http://k2442.com:8000/live/88229/88229/654.ts
-#EXTINF:-1,[GER] ORF 2 HD
-http://k2442.com:8000/live/88229/88229/656.ts
-#EXTINF:-1,[GER] ORF Eins
-http://k2442.com:8000/live/88229/88229/865.ts
-#EXTINF:-1,[GER] Prosieben HD
-http://k2442.com:8000/live/88229/88229/861.ts
-#EXTINF:-1,[GER] Prosieben Maxx HD
-http://k2442.com:8000/live/88229/88229/657.ts
-#EXTINF:-1,[GER] RTL 2 HD
-http://k2442.com:8000/live/88229/88229/863.ts
-#EXTINF:-1,[GER] RTL Crime
-http://k2442.com:8000/live/88229/88229/649.ts
-#EXTINF:-1,[GER] RTL HD
-http://k2442.com:8000/live/88229/88229/862.ts
-#EXTINF:-1,[GER] RTL Passion
-http://k2442.com:8000/live/88229/88229/866.ts
-#EXTINF:-1,[GER] SAT 1 HD
-http://k2442.com:8000/live/88229/88229/856.ts
-#EXTINF:-1,[GER] Sixx HD
-http://k2442.com:8000/live/88229/88229/859.ts
-#EXTINF:-1,[GER] Sky 13th Street
-http://k2442.com:8000/live/88229/88229/650.ts
-#EXTINF:-1,[GER] Sky Action HD
-http://k2442.com:8000/live/88229/88229/651.ts
-#EXTINF:-1,[GER] Sky Bundesliga HD
-http://k2442.com:8000/live/88229/88229/869.ts
-#EXTINF:-1,[GER] Sky Cinema
-http://k2442.com:8000/live/88229/88229/652.ts
-#EXTINF:-1,[GER] Sky Comedy HD
-http://k2442.com:8000/live/88229/88229/674.ts
-#EXTINF:-1,[GER] Super RTL
-http://k2442.com:8000/live/88229/88229/864.ts
-#EXTINF:-1,[GER] SyFy HD
-http://k2442.com:8000/live/88229/88229/868.ts
-#EXTINF:-1,[GER] VOX HD
-http://k2442.com:8000/live/88229/88229/514.ts
-#EXTINF:-1,[GER] Viva Comedy
-http://k2442.com:8000/live/88229/88229/855.ts
-#EXTINF:-1,[GER] ZDF HD
-http://k2442.com:8000/live/88229/88229/509.ts
-#EXTINF:-1,[GRE] ABC Channel
-http://k2442.com:8000/live/88229/88229/529.ts
-#EXTINF:-1,[GRE] ANT 1
-http://k2442.com:8000/live/88229/88229/673.ts
-#EXTINF:-1,[GRE] Action 24
-http://k2442.com:8000/live/88229/88229/530.ts
-#EXTINF:-1,[GRE] Alpha
-http://k2442.com:8000/live/88229/88229/668.ts
-#EXTINF:-1,[GRE] Attica
-http://k2442.com:8000/live/88229/88229/671.ts
-#EXTINF:-1,[GRE] Blue Sky
-http://k2442.com:8000/live/88229/88229/672.ts
-#EXTINF:-1,[GRE] Channel 9
-http://k2442.com:8000/live/88229/88229/670.ts
-#EXTINF:-1,[GRE] EPT 1
-http://k2442.com:8000/live/88229/88229/533.ts
-#EXTINF:-1,[GRE] EPT 2
-http://k2442.com:8000/live/88229/88229/534.ts
-#EXTINF:-1,[GRE] Extra
-http://k2442.com:8000/live/88229/88229/669.ts
-#EXTINF:-1,[GRE] Mega
-http://k2442.com:8000/live/88229/88229/532.ts
-#EXTINF:-1,[GRE] Skai
-http://k2442.com:8000/live/88229/88229/535.ts
-#EXTINF:-1,[GRE] Smile
-http://k2442.com:8000/live/88229/88229/537.ts
-#EXTINF:-1,[GRE] Stariand
-http://k2442.com:8000/live/88229/88229/536.ts
-#EXTINF:-1,[GRE] Sunny
-http://k2442.com:8000/live/88229/88229/538.ts
-
-#EXTINF:-1,|DE| ZDF HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5671.ts
-#EXTINF:-1,|DE| Das Erste HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5670.ts
-#EXTINF:-1,|DE|RTL HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5669.ts
-#EXTINF:-1,|DE|RTL 2 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5668.ts
-#EXTINF:-1,| |DE| E HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5662.ts
-#EXTINF:-1,|DE| RTL Nitro
-http://world-ipsat.com:1155/live/sultan/sultan2018/5667.ts
-#EXTINF:-1,|DE| SIXX HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5666.ts
-#EXTINF:-1,|DE| Kabel 1 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5664.ts
-#EXTINF:-1,|DE| ProSieben HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5663.ts
-#EXTINF:-1,|DE|  Universal HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5661.ts
-#EXTINF:-1,|DE| AXN HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5660.ts
-#EXTINF:-1,|DE| 13th Street
-http://world-ipsat.com:1155/live/sultan/sultan2018/5659.ts
-#EXTINF:-1,|DE| Puls 4 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5665.ts
-#EXTINF:-1,|DE| ORF 1 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5658.ts
-#EXTINF:-1,|DE| ORF 2 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5657.ts
-#EXTINF:-1,|DE| ORF 3 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5656.ts
-#EXTINF:-1,|DE|*****KINO*****|DE|
-http://world-ipsat.com:1155/live/sultan/sultan2018/5655.ts
-#EXTINF:-1,|DE| SKY CINEMA  1HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5653.ts
-#EXTINF:-1,|DE| SKY CINEMA  24 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5652.ts
-#EXTINF:-1,|DE| SKY CINEMA FAMILY HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5651.ts
-#EXTINF:-1,|DE| SKY CINEMA HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5654.ts
-#EXTINF:-1,|DE| SKY CINEMA HITS HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5650.ts
-#EXTINF:-1,|DE| SKY COMEDY HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5649.ts
-#EXTINF:-1,|DE| Sky DMAX
-http://world-ipsat.com:1155/live/sultan/sultan2018/5648.ts
-#EXTINF:-1,|DE| SKY EMOTION HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5647.ts
-#EXTINF:-1,|DE| SKY KRIMI HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5646.ts
-#EXTINF:-1,|DE| SKY NOSTALGIE
-http://world-ipsat.com:1155/live/sultan/sultan2018/5645.ts
-#EXTINF:-1,|DE|*****SPORT*****|DE|
-http://world-ipsat.com:1155/live/sultan/sultan2018/5644.ts
-#EXTINF:-1,|DE|SKY SPORT 1 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5643.ts
-#EXTINF:-1,|DE| SKY SPORT 2 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5642.ts
-#EXTINF:-1,|DE| |DE| SKY BUNDESLIGA 1HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5641.ts
-#EXTINF:-1,|DE| SKY SPORT NEWS HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5640.ts
-#EXTINF:-1,|DE|  Discovery Channel HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5639.ts
-#EXTINF:-1,|DE| Nat Geo Wild  HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5638.ts
-#EXTINF:-1,|DE| National Geographic HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5637.ts
-#EXTINF:-1,|DE| |DE|*****KINDER*****|DE|
-http://world-ipsat.com:1155/live/sultan/sultan2018/5636.ts
-#EXTINF:-1,|DE||DE| Nick HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5635.ts
-#EXTINF:-1,|DE| Nick JR HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5634.ts
-#EXTINF:-1,|DE| Cartoon Network HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5631.ts
-#EXTINF:-1,|DE|  Disney Channel HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5632.ts
-#EXTINF:-1,|DE|  Disney XD HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5633.ts
-#EXTINF:-1,|DE| Boomerang HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/5630.ts
-#EXTINF:-1,=======SKY _ DE _CHANNEL=======
-http://world-ipsat.com:1155/live/sultan/sultan2018/326.ts
-#EXTINF:-1,ZDF-HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/290.ts
-#EXTINF:-1,DE:SkyActionHD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1390.ts
-#EXTINF:-1,SkyCinema-1HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1391.ts
-#EXTINF:-1,SkyCinema24HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1392.ts
-#EXTINF:-1,DE:SkyCinemaHD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1393.ts
-#EXTINF:-1,SkyComedyHD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1394.ts
-#EXTINF:-1,DE:SkyEmotionHD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1395.ts
-#EXTINF:-1,DE: Fox-HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1566.ts
-#EXTINF:-1,DE SKY HITS HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1396.ts
-#EXTINF:-1,DE:SkyKrimiHD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1397.ts
-#EXTINF:-1,DE:Sky-Atlantic
-http://world-ipsat.com:1155/live/sultan/sultan2018/2020.ts
-#EXTINF:-1,DE:TNT_SERIE
-http://world-ipsat.com:1155/live/sultan/sultan2018/2074.ts
-#EXTINF:-1,DE:Disney_Junior_HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/2076.ts
-#EXTINF:-1,DE:RTL_CRIME
-http://world-ipsat.com:1155/live/sultan/sultan2018/2075.ts
-#EXTINF:-1,DE_Prosieben_HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/2073.ts
-#EXTINF:-1,DE_SKY_TNT_FILM
-http://world-ipsat.com:1155/live/sultan/sultan2018/2072.ts
-#EXTINF:-1,|DE| ARTE HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/433.ts
-#EXTINF:-1,DE: DMAX HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/437.ts
-#EXTINF:-1,[DE]: ARD HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/110.ts
-#EXTINF:-1,|DE| DISCOVERY HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/432.ts
-#EXTINF:-1,|DE| NAT GEO HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/434.ts
-#EXTINF:-1,DE: NAT GEO WILD HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/435.ts
-#EXTINF:-1,|DE|NAT GEO PEOPLE HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/436.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/438.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/439.ts
-#EXTINF:-1,DE: PRO7 MAXX
-http://world-ipsat.com:1155/live/sultan/sultan2018/440.ts
-#EXTINF:-1,DE: SKY 13TH STREET HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/441.ts
-#EXTINF:-1,DE:SkySport1HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1401.ts
-#EXTINF:-1,DE:SkySport2HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1402.ts
-#EXTINF:-1,DE:Sky-Bundesliga-1hd
-http://world-ipsat.com:1155/live/sultan/sultan2018/1403.ts
-#EXTINF:-1,DE Sky Bundeslige 2HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1404.ts
-#EXTINF:-1,DE_SPORT_1
-http://world-ipsat.com:1155/live/sultan/sultan2018/182.ts
-#EXTINF:-1,DE SKY SELECT  HD1
-http://world-ipsat.com:1155/live/sultan/sultan2018/920.ts
-#EXTINF:-1,DE SKY SELECT  HD2
-http://world-ipsat.com:1155/live/sultan/sultan2018/921.ts
-#EXTINF:-1,DE SKY SELECT  HD3
-http://world-ipsat.com:1155/live/sultan/sultan2018/922.ts
-#EXTINF:-1,SkySelectHD4
-http://world-ipsat.com:1155/live/sultan/sultan2018/923.ts
-#EXTINF:-1,DE SKY SELECT  HD5
-http://world-ipsat.com:1155/live/sultan/sultan2018/924.ts
-#EXTINF:-1,DE SKY SELECT  HD6
-http://world-ipsat.com:1155/live/sultan/sultan2018/925.ts
-#EXTINF:-1,DE SKY SELECT  HD7
-http://world-ipsat.com:1155/live/sultan/sultan2018/926.ts
-#EXTINF:-1,SkySelectHD8
-http://world-ipsat.com:1155/live/sultan/sultan2018/927.ts
-#EXTINF:-1,SkySelectHD9
-http://world-ipsat.com:1155/live/sultan/sultan2018/928.ts
-#EXTINF:-1,SkySelectHD10
-http://world-ipsat.com:1155/live/sultan/sultan2018/929.ts
-#EXTINF:-1,DE: ANIXE HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/286.ts
-#EXTINF:-1,DE: ANIXE
-http://world-ipsat.com:1155/live/sultan/sultan2018/243.ts
-#EXTINF:-1,DE:AUSTRIA-24-TV
-http://world-ipsat.com:1155/live/sultan/sultan2018/291.ts
-#EXTINF:-1,DE: AVUSTURYA 24
-http://world-ipsat.com:1155/live/sultan/sultan2018/254.ts
-#EXTINF:-1,DE: AUSTRIA 24
-http://world-ipsat.com:1155/live/sultan/sultan2018/268.ts
-#EXTINF:-1,DE: RTL HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/236.ts
-#EXTINF:-1,DE: VOX HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/2085.ts
-#EXTINF:-1,[DE]: KIKA HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/2084.ts
-#EXTINF:-1,DE: SUPER RTL HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/2081.ts
-#EXTINF:-1,DE:NICKELODEON HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/2080.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/1462.ts
-#EXTINF:-1,DE: SAT 1 HD
-http://world-ipsat.com:1155/live/sultan/sultan2018/269.ts
-#EXTINF:-1,DE_Kabel_eins_hd
-http://world-ipsat.com:1155/live/sultan/sultan2018/258.ts
-#EXTINF:-1,DE: FILSTALWELLE
-http://world-ipsat.com:1155/live/sultan/sultan2018/256.ts
-#EXTINF:-1,DE:Light-TV
-http://world-ipsat.com:1155/live/sultan/sultan2018/297.ts
-#EXTINF:-1,DE:Light-Channel
-http://world-ipsat.com:1155/live/sultan/sultan2018/323.ts
-#EXTINF:-1,DE: 24 GE AUS
-http://world-ipsat.com:1155/live/sultan/sultan2018/283.ts
-#EXTINF:-1,DE: DAF
-http://world-ipsat.com:1155/live/sultan/sultan2018/246.ts
+#EXTINF:-1,USA: ABC HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4192.ts
+#EXTINF:-1,USA: ABC NEWS HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4191.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://167.114.102.156:25461/live/tomasin/tomasin1/4190.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://167.114.102.156:25461/live/tomasin/tomasin1/4189.ts
+#EXTINF:-1,USA: AMC HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4188.ts
+#EXTINF:-1,USA: Bein Sports USA HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4187.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://167.114.102.156:25461/live/tomasin/tomasin1/4186.ts
+#EXTINF:-1,USA: CBS Sports Network HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4185.ts
+#EXTINF:-1,USA: CBSN HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4184.ts
+#EXTINF:-1,USA: CNBC
+http://167.114.102.156:25461/live/tomasin/tomasin1/4183.ts
+#EXTINF:-1,USA: Comedy Central
+http://167.114.102.156:25461/live/tomasin/tomasin1/4182.ts
+#EXTINF:-1,USA: DISCCOVERY HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4181.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4180.ts
+#EXTINF:-1,USA: ESPN
+http://167.114.102.156:25461/live/tomasin/tomasin1/4178.ts
+#EXTINF:-1,USA: ESPN 2
+http://167.114.102.156:25461/live/tomasin/tomasin1/4177.ts
+#EXTINF:-1,USA: ESPN News US HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4176.ts
+#EXTINF:-1,USA: ESPN U HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4175.ts
+#EXTINF:-1,USA: Fight HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4174.ts
+#EXTINF:-1,USA: FIGHT SPORT
+http://167.114.102.156:25461/live/tomasin/tomasin1/4173.ts
+#EXTINF:-1,USA: Food Network
+http://167.114.102.156:25461/live/tomasin/tomasin1/4172.ts
+#EXTINF:-1,USA: Food Network HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4171.ts
+#EXTINF:-1,USA: Fox HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4170.ts
+#EXTINF:-1,USA: FOX News HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4169.ts
+#EXTINF:-1,USA: Fox Sports 1
+http://167.114.102.156:25461/live/tomasin/tomasin1/4168.ts
+#EXTINF:-1,USA: Fox Sports 2
+http://167.114.102.156:25461/live/tomasin/tomasin1/4167.ts
+#EXTINF:-1,USA: Fox SPORTS 506 HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4166.ts
+#EXTINF:-1,USA: FOXX HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4165.ts
+#EXTINF:-1,USA: FX HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4164.ts
+#EXTINF:-1,USA: H2
+http://167.114.102.156:25461/live/tomasin/tomasin1/4163.ts
+#EXTINF:-1,USA: HBO Comedy
+http://167.114.102.156:25461/live/tomasin/tomasin1/4162.ts
+#EXTINF:-1,USA: HBO East
+http://167.114.102.156:25461/live/tomasin/tomasin1/4161.ts
+#EXTINF:-1,USA: HBO HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4160.ts
+#EXTINF:-1,USA: HBO Signature
+http://167.114.102.156:25461/live/tomasin/tomasin1/4159.ts
+#EXTINF:-1,USA: HBO Zone
+http://167.114.102.156:25461/live/tomasin/tomasin1/4158.ts
+#EXTINF:-1,USA: MBL HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4157.ts
+#EXTINF:-1,USA: MLB Network
+http://167.114.102.156:25461/live/tomasin/tomasin1/4156.ts
+#EXTINF:-1,USA: MSNBC HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4155.ts
+#EXTINF:-1,USA: National Geographic
+http://167.114.102.156:25461/live/tomasin/tomasin1/4154.ts
+#EXTINF:-1,USA: NBA TV HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4153.ts
+#EXTINF:-1,USA: NBC
+http://167.114.102.156:25461/live/tomasin/tomasin1/4152.ts
+#EXTINF:-1,USA: NBC Golf
+http://167.114.102.156:25461/live/tomasin/tomasin1/4151.ts
+#EXTINF:-1,USA: NBCSN HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4150.ts
+#EXTINF:-1,USA: NFL Network 1
+http://167.114.102.156:25461/live/tomasin/tomasin1/4149.ts
+#EXTINF:-1,USA: NFL Network HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4148.ts
+#EXTINF:-1,USA: NHL Network
+http://167.114.102.156:25461/live/tomasin/tomasin1/4147.ts
+#EXTINF:-1,USA: NICKELODEON HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4146.ts
+#EXTINF:-1,USA: PAC-12 Oregon
+http://167.114.102.156:25461/live/tomasin/tomasin1/4141.ts
+#EXTINF:-1,USA: Red Bull
+http://167.114.102.156:25461/live/tomasin/tomasin1/4139.ts
+#EXTINF:-1,USA: SEC Network
+http://167.114.102.156:25461/live/tomasin/tomasin1/4138.ts
+#EXTINF:-1,USA: Smile Of A Child
+http://167.114.102.156:25461/live/tomasin/tomasin1/4137.ts
+#EXTINF:-1,USA: SPIKE HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4136.ts
+#EXTINF:-1,USA: Sports-Net
+http://167.114.102.156:25461/live/tomasin/tomasin1/4135.ts
+#EXTINF:-1,USA: TBS HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4134.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4133.ts
+#EXTINF:-1,USA: TLC HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4132.ts
+#EXTINF:-1,USA: Toon Kids
+http://167.114.102.156:25461/live/tomasin/tomasin1/4131.ts
+#EXTINF:-1,USA: UFC Fight pass
+http://167.114.102.156:25461/live/tomasin/tomasin1/4130.ts
+#EXTINF:-1,USA: USA Network HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4129.ts
+#EXTINF:-1,USA: WWE HD
+http://167.114.102.156:25461/live/tomasin/tomasin1/4127.ts
